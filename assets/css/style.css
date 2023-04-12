@@ -1,0 +1,16 @@
+.col-8, .col-4 {
+    border: 1px solid red;
+}
+.row{
+    border: 1px black;
+}
+.container{
+    border: 1px solid blue;
+}
+.container-fluid {
+    border: 1px solid orange;
+}
+.imagen-carusel{
+    width: 100px ;
+    height: 500px;
+}
