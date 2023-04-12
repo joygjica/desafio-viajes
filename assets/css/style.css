@@ -1,16 +1,29 @@
-.col-8, .col-4 {
-    border: 1px solid red;
-}
-.row{
-    border: 1px black;
-}
-.container{
-    border: 1px solid blue;
-}
-.container-fluid {
-    border: 1px solid orange;
-}
-.imagen-carusel{
-    width: 100px ;
+
+
+.imagen-carusel {
+    width: 100px;
     height: 500px;
+}
+
+.card-header,
+.card-footer {
+    background-color: rgb(10, 166, 57);
+}
+
+
+.card-img-top {
+    height: 200px;
+}
+
+
+
+
+.navbar, .navbar-expand-lg, .bg-body-tertiary, .container-fluid, .navbar-brand, body {
+    background-color: rgb(10, 166, 57);
+}
+.titulo{
+    color: white;
+    font-size: 2em;
+    margin: 0.5em;
+    
 }
